@@ -1,4 +1,4 @@
 def add(a, b):
     return a + b
 
-print("Result:", add(2, 3))
+print("Feature result:", add(10, 20))
